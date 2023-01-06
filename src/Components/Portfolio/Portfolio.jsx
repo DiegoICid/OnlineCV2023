@@ -14,7 +14,7 @@ const Portfolio = () => {
         <ul className="fa-ul mb-0">
           <Portfolioitem
             webCode={"https://github.com/DiegoIgnacioCid/crud"}
-            webSite={"https://crud-vdv5-diegoignaciocid.vercel.app/"}
+            webSite={"https://crud-smoky-six.vercel.app/"}
             description={
               "Simple CRUD component based in MUI, developed in Typescript and backed by Firebase."
             }
