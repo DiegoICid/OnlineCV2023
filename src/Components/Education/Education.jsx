@@ -8,6 +8,14 @@ const Education = () => {
         <h2 className="mb-5">Education</h2>
 
         <Educationitem
+          title={"CS50"}
+          subtitle={"React Native"}
+          description={
+            "A full React Native course by CS50."
+          }
+        ></Educationitem>
+
+        <Educationitem
           title={"CoderHouse"}
           subtitle={"ReactJS"}
           description={

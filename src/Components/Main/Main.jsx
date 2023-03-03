@@ -23,11 +23,11 @@ const Main = () => {
           <div className="social-icons">
             <a
               className="social-icon"
-              href="https://github.com/DiegoIgnacioCid"
+              href="https://github.com/DiegoI-code"
             >
               <i className="fab fa-github"></i>
             </a>
-            <a className="social-icon" href="#!">
+            <a className="social-icon" href="https://www.linkedin.com/in/diego-i-048694268/">
               <i className="fab fa-linkedin-in"></i>
             </a>
           </div>
