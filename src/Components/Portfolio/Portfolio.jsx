@@ -13,7 +13,7 @@ const Portfolio = () => {
 
         <ul className="fa-ul mb-0">
           <Portfolioitem
-            webCode={"https://github.com/DiegoI-code/crud"}
+            webCode={"https://github.com/diegoicid/crud"}
             webSite={"https://crud-jzjz.vercel.app/"}
             description={
               "Simple CRUD component based in MUI, developed in Typescript and backed by Firebase."
@@ -21,35 +21,35 @@ const Portfolio = () => {
           />
           <Portfolioitem
             webCode={
-              "https://github.com/DiegoI-code/Kase-eCommerce"
+              "https://github.com/diegoicid/Kase-eCommerce"
             }
-            webSite={"https://diegoi-code.github.io/Kase-eCommerce/"}
+            webSite={"https://diegoicid.github.io/Kase-eCommerce/"}
             description={"Käse - Ecommerce developed in React using Firebase."}
           />
 
           <Portfolioitem
-            webCode={"https://github.com/DiegoI-code/aframe-test"}
-            webSite={"https://diegoi-code.github.io/aframe-test/"}
+            webCode={"https://github.com/diegoicid/aframe-test"}
+            webSite={"https://diegoicid.github.io/aframe-test/"}
             description={
               "Insanity - Labyrinth game. Javascript + libraries (aframe, Howler, etc.)."
             }
           />
 
           <Portfolioitem
-            webCode={"https://github.com/DiegoI-code/OnlineCV2023"}
-            webSite={"https://diegoi-code.github.io/OnlineCV2023/"}
+            webCode={"https://github.com/diegoicid/OnlineCV2023"}
+            webSite={"https://diegoicid.github.io/OnlineCV2023/"}
             description={"Online CV - Bootstrap template developed in React."}
           />
           <Portfolioitem
-            webCode={"https://github.com/DiegoI-code/LaborCalculator"}
-            webSite={"https://diegoi-code.github.io/LaborCalculator/"}
+            webCode={"https://github.com/diegoicid/LaborCalculator"}
+            webSite={"https://diegoicid.github.io/LaborCalculator/"}
             description={
               "Severance Calculator - Vanilla Javascript + libraries (Luxon, Toastify, Numeral, Howler, etc.)"
             }
           />
           <Portfolioitem
-            webCode={"https://github.com/DiegoI-code/Forastero-Onepage"}
-            webSite={"https://diegoi-code.github.io/Forastero-Onepage/"}
+            webCode={"https://github.com/diegoicid/Forastero-Onepage"}
+            webSite={"https://diegoicid.github.io/Forastero-Onepage/"}
             description={
               "Web page - A single page layout based in Bootstrap for a small chocolate factory."
             }
